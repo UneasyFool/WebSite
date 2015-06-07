@@ -1,1 +1,13 @@
 <!DOCTYPE HTML>
+<html>
+<head>
+<title>Register/Login</title>
+</head>
+<body>
+<form>
+First Name: <input type="text" name="firstname"><br>
+Last Name: <input type="text" name="lastname"><br>
+Password: <input type="password" name="pwd"><br>
+</form>
+<body>
+<hmtl>
